@@ -76,6 +76,6 @@ This project is open-source and available under the [MIT License](LICENSE). Feel
 ## Contact
 If you have questions, suggestions, or want to collaborate, feel free to reach out:
 - GitHub: [Duckjinkim](https://github.com/Duckjinkim)
-- Email: [your-email@example.com](mailto:ccit68155@gmail.com)
+- Email: [your-email@example.com](mailto:ccie68155@gmail.com)
 
 Happy studying, and good luck on your CCIE journey!
