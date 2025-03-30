@@ -78,5 +78,6 @@ If you have questions, suggestions, or want to collaborate, feel free to reach o
 - GitHub: [DJ Kim](https://github.com/Duckjinkim)
 - Email: [ccie68155@gmail.com](mailto:ccie68155@gmail.com)
 - Linkin : https://www.linkedin.com/in/dj-duckjin-kim-55727827b/
+- Blog : https://ccie68155.tistory.com/
 
 Happy studying, and good luck on your CCIE journey!
