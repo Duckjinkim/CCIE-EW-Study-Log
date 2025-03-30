@@ -72,10 +72,11 @@ As of March 29, 2025, I have been diligently preparing for the CCIE Enterprise W
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as needed.
-
 ## Contact
 If you have questions, suggestions, or want to collaborate, feel free to reach out:
-- GitHub: [Duckjinkim](https://github.com/Duckjinkim)
-- Email: [your-email@example.com](mailto:ccie68155@gmail.com)
+- GitHub: [DJ Kim](https://github.com/Duckjinkim)
+- Email: [ccie68155@gmail.com](mailto:ccie68155@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/dj-duckjin-kim-55727827b/
+- Blog: https://ccie68155.tistory.com/
 
 Happy studying, and good luck on your CCIE journey!
