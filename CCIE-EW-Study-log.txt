@@ -18,3 +18,6 @@ Section Times:
   Section 1: 00:00:17
 2025-03-31: 0.35 hours - CCIE EW Lab
 Section Times:
+2025-03-31: 1.56 hours - CCIE EW Lab
+Section Times:
+  Section 1: 00:52:11
