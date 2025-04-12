@@ -70,3 +70,5 @@ Section Times:
 Section Times:
 2025-04-11: 0.63 hours - CCIE EW Lab
 Section Times:
+2025-04-11: 0.67 hours - CCIE EW Lab
+Section Times:
