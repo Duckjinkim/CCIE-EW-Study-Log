@@ -218,3 +218,5 @@ Section Times:
 Section Times:
 2025-05-14: 5.00 hours - CCIE EW Lab (Completed)
 Section Times:
+2025-05-14: 12.11 hours - CCIE EW Lab
+Section Times:
