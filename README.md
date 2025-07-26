@@ -1,4 +1,5 @@
 # CCIE EW Study LAB Time Tracker
+<img width="802" height="635" alt="image" src="https://github.com/user-attachments/assets/a41d1e1a-fa27-4f05-bef6-fc272db09e67" />
 
 ## Overview
 Welcome to the **CCIE EW Study LAB Time Tracker**! This project is a part of my journey as a network engineer preparing for the **CCIE Enterprise Wireless (EW)** certification. As a network engineer, I created this tool to track my study time, visualize my progress, and enhance my time management skills—crucial for the CCIE LAB exam. This repository serves as a portfolio piece to demonstrate my dedication to CCIE preparation, my ability to manage time effectively, and my skills in Python programming for automation.
